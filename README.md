@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Arquivos
 - docker-compose.yml
 - database.py
@@ -15,3 +16,6 @@ Classes Python mapeadas para tabelas do banco de dados.
 Controle de versão do schema do banco, sem perder dados.
 ## Rotas CRUD com o FastAPI
 Endpoints que lêem e escrevem no banco de dados usando a sessão do SQL Alchemy.
+=======
+# trabalho-29-04-26
+>>>>>>> bedf9e39ef602916b4737f9c76189724135035ac
